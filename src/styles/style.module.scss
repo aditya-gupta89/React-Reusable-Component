@@ -1,0 +1,13 @@
+$primaryColor: #004a98;
+$baseColor: #ffffff;
+$secondaryColor: #9fd1f166;
+$subTextColor: #7e7e7e;
+$textColor: #000000;
+
+:export {
+  primaryColor: $primaryColor;
+  secondaryColor: $secondaryColor;
+  baseColor: $baseColor;
+  subTextColor: $subTextColor;
+  textColor: $textColor;
+}

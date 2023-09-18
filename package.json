@@ -1,0 +1,26 @@
+{
+  "name": "provider-portal",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "node-sass": "^7.0.3",
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@vitejs/plugin-react": "^2.1.0",
+    "@types/node-sass": "^4.11.3",
+    "@types/node": "^16.11.56",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}
